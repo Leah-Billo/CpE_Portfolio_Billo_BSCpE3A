@@ -31,58 +31,30 @@ I am motivated to learn more about software development, embedded systems, and c
 
 # 📂 Academic Projects
 
-## 🔹 Smart Temperature Monitoring System
+## 🔹 Mini Amplifier Using TIP41
 
 ### Description
-A temperature monitoring project using Arduino and sensors to display real-time temperature readings.
+This project is a simple audio amplifier circuit using a TIP41 transistor to amplify low audio signals into louder sound output through a speaker. The project demonstrates the fundamentals of transistor-based amplification, electronic circuit assembly, and audio signal processing.
 
 ### Technologies Used
-- Arduino IDE
-- C++
-- Temperature Sensor
+- Electronic Circuit Design
+- Proteus (Schematic Design and 3D Modeling)
+- Soldering Techniques
+- Analog Electronics
 
 ### Components Used
-- Arduino Uno
-- LCD Display
+- NPN Transistor TIP41
+- Capacitor
+- Resistor
+- Potentiometer
+- Heatsink
+- Connector
+- Speaker
+- Audio Jack
 - Jumper Wires
-- Breadboard
 
 ### Project Screenshot
-![Temperature System](images/project1.jpg)
-
----
-
-## 🔹 Calculator Application
-
-### Description
-A basic calculator application created using Python that can perform arithmetic operations such as addition, subtraction, multiplication, and division.
-
-### Technologies Used
-- Python
-- VS Code
-
-### Project Screenshot
-![Calculator](images/project2.jpg)
-
----
-
-## 🔹 Network Topology Design
-
-### Description
-A network layout designed to demonstrate proper connection and communication between multiple devices in a computer network.
-
-### Technologies Used
-- Cisco Packet Tracer
-- Draw.io
-
-### Project Screenshot
-![Network Design](images/project3.jpg)
-
----
-
-# 🎯 Purpose
-
-This portfolio highlights my learning experiences, technical projects, and skills developed throughout my Computer Engineering studies.
+![Amplifier](images/project1.jpg)
 
 ---
 
