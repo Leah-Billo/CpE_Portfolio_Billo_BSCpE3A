@@ -17,13 +17,10 @@ I am motivated to learn more about software development, embedded systems, and c
 
 # 🛠 Skills
 
-- Arduino Programming
 - Python
 - C++
 - Circuit Troubleshooting
 - Networking
-- ESP32
-- Draw.io
 - GitHub
 - Basic Web Design
 
@@ -54,7 +51,10 @@ This project is a simple audio amplifier circuit using a TIP41 transistor to amp
 - Jumper Wires
 
 ### Project Screenshot
-![Amplifier](images/project1.jpg)
+<img src="Images/Schematic.png" height="300" /> 
+<img src="Images/Amplifier%203D%20Model.png" height="300" />
+<img src="Images/PCB%20Board.png" height="300" /> 
+<img src="Images/Amplifier.png" height="300" />
 
 ---
 
