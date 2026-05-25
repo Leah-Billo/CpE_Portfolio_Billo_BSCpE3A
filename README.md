@@ -6,16 +6,20 @@ My name is Leah Billo, a third-year Computer Engineering student from CE3A. This
 
 ---
 
-# 📌 About Me
+# About Me
 
-- Course: Bachelor of Science in Computer Engineering
-- Section: CE3A
+### Name
+Leah Billo
 
-I am motivated to learn more about software development, embedded systems, and computer hardware. I enjoy participating in technical activities that improve my creativity and analytical skills.
+### Course
+Bachelor of Science in Computer Engineering
+
+### Section
+CE3A
 
 ---
 
-# 🛠 Skills
+# Skills
 
 - Python
 - C++
@@ -26,7 +30,7 @@ I am motivated to learn more about software development, embedded systems, and c
 
 ---
 
-# 📂 Academic Projects
+# Academic Projects
 
 ## 🔹 Mini Amplifier Using TIP41
 
@@ -55,6 +59,12 @@ This project is a simple audio amplifier circuit using a TIP41 transistor to amp
 <img src="Images/Amplifier%203D%20Model.png" height="300" />
 <img src="Images/PCB%20Board.png" height="300" /> 
 <img src="Images/Amplifier.png" height="300" />
+
+---
+
+# Goals
+
+I am motivated to learn more about software development, embedded systems, and computer hardware. I enjoy participating in technical activities that improve my creativity and analytical skills.
 
 ---
 
